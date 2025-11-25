@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm from patna bihar. <br><br>- 🔭 I’m a data scientist .<br>- 📚 I'm currently learning python and data science .<br>- ⚡ In my free time I learn new things such as ui/ux and python .</p>
+<p align="left">I'm from Jaipur . <br><br>- 🔭 I’m an aspiring data scientist .<br>- 📚 I'm currently learning python and data science .<br>- ⚡ In my free time I learn new things such as ui/ux and python .</p>
 
 ###
 
